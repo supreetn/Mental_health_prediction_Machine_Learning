@@ -12,6 +12,9 @@ Mental health prediction and music recommendation system using ML
 - Music causes the brain to release dopamine, a chemical which works to regulate motivation and goal-oriented behaviour.
 # Datasets
 We have used survey dataset to obtain users perception on music and how they respond to each musiv genre. We collected music data manually by making a list of music genres of the survey dataset and obtained corresponding songs in it. 
+<img src="surveydataset.jpeg">
+
+<img src="Musicdataset.jpeg">
 # Methodology
 
 # Model Development
