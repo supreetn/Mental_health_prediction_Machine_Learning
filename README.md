@@ -13,7 +13,7 @@ Mental health prediction and music recommendation system using ML
 # Datasets
 We have used survey dataset to obtain users perception on music and how they respond to each musiv genre. We collected music data manually by making a list of music genres of the survey dataset and obtained corresponding songs in it. 
 
-# Survey datset
+# Survey dataset
 <img src="surveydataset.jpeg">
 
 # Music dataset 
