@@ -12,8 +12,10 @@ Mental health prediction and music recommendation system using ML
 - Music causes the brain to release dopamine, a chemical which works to regulate motivation and goal-oriented behaviour.
 # Datasets
 We have used survey dataset to obtain users perception on music and how they respond to each musiv genre. We collected music data manually by making a list of music genres of the survey dataset and obtained corresponding songs in it. 
-# Surevy dataset 
+
+# Survey datset
 <img src="surveydataset.jpeg">
+
 # Music dataset 
 <img src="Musicdataset.jpeg">
 
@@ -51,6 +53,10 @@ Predicts the class with the highest posterior probability by first applying Baye
  # Evaluation
 
  We observed that Random Forest was best in predicting the music effects on each issues users had. And, XGBoost outperformed rest of the models in predicting good song genres for each mental issue type and gave us good recommendations.
+
+ <img src="evualution-merthos1.jpeg">
+ 
+ <img src="evualution-merthos2.jpeg">
 
 
 
