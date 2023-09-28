@@ -59,7 +59,14 @@ Predicts the class with the highest posterior probability by first applying Baye
  <img src="evualution-merthos2.jpeg">
 
 
+## 🔗 Contributors & Credits
+Supreetha Naik https://github.com/supreetn
 
+Sushmita Joshi https://github.com/sushmita3105
+
+Madhura Pandit https://github.com/madhurapandit
+
+Swetha Subramanian https://github.com/swethasubu93
 
 
 
