@@ -47,7 +47,7 @@ DT are useful as they can handle categorical as well as numerical data, can hand
 Boosting trees makes it more effective than DT or RF with improved accuracy, preventing overfitting and faster processing.
 Once the preferred genre is predicted, the recommended songs which has improved effect on mental health are selected from the integrated songs data.
 - **Naive Bayes** - Uses Bayes' theorem. The "naive" assumption, which underlies this technique, states that each aspect of the input data is independent of every other feature. 
-Effective in text categorization, spam filtering, sentiment analysis, classification tasks, particularly with high-dimensional data 
+Effective in text categorization, spam filtering, sentiment analysis, classification tasks, particularly with high-dimensional data.
 Predicts the class with the highest posterior probability by first applying Bayes' theorem to calculate the probabilities of each class given the input data.
 
  # Evaluation
